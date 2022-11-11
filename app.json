@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "app-viajante",
+    "slug": "app-viajante",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "app-viajante"
+}
